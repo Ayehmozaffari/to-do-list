@@ -1,0 +1,35 @@
+.notes__sidebar{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:16px;
+    
+}
+.notes__list-item-notes__list-item--selected{
+    background-color: #eee;
+    padding: 25px 20px 25px 20px ;
+    margin-right: 1300px;
+    border-radius: 6px 6px ;
+    margin-bottom: 7px;
+}
+.notes__small-title {
+    margin-bottom: 5px;
+}
+.note__small-body{
+    margin-bottom: 2px;
+}
+.notes__add{
+    border: none;
+    background: rgb(181, 83, 230);
+    padding: 10px 40px 10px 40px ;
+    cursor: pointer;
+    border-radius: 3px 3px;
+    margin-bottom: 3px;
+    color: antiquewhite;
+    font-size: 16px;
+    font-weight: 700;
+}
+.notes__small-updated{
+    margin-top: 10px;
+    font-size: 10px;
+    color: rgb(79, 79, 76);
+}
